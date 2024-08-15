@@ -1,8 +1,8 @@
 # Title: Crysty Pihole blacklist hosts
 
-# LastUpdate: 20 July 2024
-# Version 1
-# Number of unique domains: 36
+# LastUpdate: 15 August 2024
+# Version 2
+# Number of unique domains: 38
 
 # Crowdstrike Falcon sensor URL
 # Source
@@ -52,3 +52,7 @@
 0.0.0.0 lfodown01-us-gov-2.cloudsink.net
 0.0.0.0 api.us-gov-2.crowdstrike.com
 0.0.0.0 firehose.us-gov-2.crowdstrike.com
+
+# QNAP cloud:
+0.0.0.0 core2.myqnapcloud.io
+0.0.0.0 edge.myqnapcloud.io
