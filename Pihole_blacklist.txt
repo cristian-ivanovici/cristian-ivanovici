@@ -54,5 +54,22 @@
 0.0.0.0 firehose.us-gov-2.crowdstrike.com
 
 # QNAP cloud:
+# https://www.reddit.com/r/qnap/comments/165tlhh/removing_myqnapcloud/
 0.0.0.0 core2.myqnapcloud.io
 0.0.0.0 edge.myqnapcloud.io
+
+# Others
+us-east-1.prod.service.minerva.devices.a2z.com
+prod.service.minerva.devices.a2z.com
+graph.facebook.com
+settings-win.data.microsoft.com
+self.events.data.microsoft.com
+skydrive.wns.windows.com
+activity.windows.com
+settings.crashlytics.com
+reports.crashlytics.com
+ping.ui.com
+telemetry-in.battle.net
+ccleaner.tools.avcdn.net
+analytics.tradeskillmaster.com
+tentacles.smartocto.com
