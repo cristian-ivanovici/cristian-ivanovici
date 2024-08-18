@@ -61,9 +61,7 @@
 
 # Others
 # Samsung TV requested from 2024-08-17
-0.0.0.0 .us-east-1.prod.service.minerva.devices.a2z.com
-# Samsung TV requested from 2024-08-17
-#0.0.0.0 .prod.service.minerva.devices.a2z.com
+0.0.0.0 f988fcc1b91d50159ea2f9ea71ada0bea73bed3ca33afb9bc43e12d61e8f57d.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 self.events.data.microsoft.com
