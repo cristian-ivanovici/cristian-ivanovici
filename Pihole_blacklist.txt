@@ -59,10 +59,35 @@
 0.0.0.0 edge.myqnapcloud.io
 0.0.0.0 www.myqnapcloud.com
 
-# Others
 # Samsung TV requested from 2024-08-17
 0.0.0.0 f988fcc1b91d50159ea2f9ea71ada0bea73bed3ca33afb9bc43e12d61e8f57d.us-east-1.prod.service.minerva.devices.a2z.com
+
+# Netflix
+0.0.0.0 api-global.netflix.com
+0.0.0.0 cdn-0.nflximg.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 netflix.com
+0.0.0.0 nrdp50-appboot.netflix.com
+0.0.0.0 nrdp51-appboot.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 nrdp.prod.ftl.netflix.com
+0.0.0.0 occ-0-1328-1327.1.nflxso.net
+0.0.0.0 preapp.prod.partner.netflix.net
+0.0.0.0 push.prod.netflix.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 uiboot.netflix.com
+
+# Others
+0.0.0.0 mediaservices.cdn-apple.com
+0.0.0.0 api.roku.com
+0.0.0.0 api.sr.roku.com
+0.0.0.0 api.rokutime.com
+0.0.0.0 customer-feedbacks.web.roku.com
+0.0.0.0 lat-services.api.data.roku.com
+0.0.0.0 scribe.logs.roku.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 m.media-amazon.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 skydrive.wns.windows.com
