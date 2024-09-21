@@ -82,7 +82,7 @@
 0.0.0.0 lat-services.api.data.roku.com
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 graph.facebook.com
-0.0.0.0 m.media-amazon.com
+#0.0.0.0 m.media-amazon.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 skydrive.wns.windows.com
