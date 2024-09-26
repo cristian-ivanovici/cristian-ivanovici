@@ -149,4 +149,9 @@
 112.50.158.226
 3.8.118.24
 baidu.com
+# 45.140.189.31 = Mass Brute-Force TCP@37694(RDP protocol), snort report 2024-09-26 18:30
+45.140.212.55 # Mass Brute-Force TCP@37694(RDP protocol), snort report 2024-09-24 20:00
+# 45.140.189.31 = Mass Brute-Force TCP@37694(RDP protocol), snort report 2024-09-22 20:00
+156.146.41.17 # Masive Brute-Force TCP@37694(RDP protocol), snort reported, 2024-09-01 15:00
+45.140.189.0/24 # Masive Brute-Force TCP@37694(RDP protocol), detected by snort, 2024-09-22, 740K attempts in 2 days
 # END 150 entries
