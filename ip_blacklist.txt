@@ -149,9 +149,23 @@
 112.50.158.226
 3.8.118.24
 baidu.com
-# 45.140.189.31 = Mass Brute-Force TCP@37694(RDP protocol), snort report 2024-09-26 18:30
-45.140.212.55 # Mass Brute-Force TCP@37694(RDP protocol), snort report 2024-09-24 20:00
-# 45.140.189.31 = Mass Brute-Force TCP@37694(RDP protocol), snort report 2024-09-22 20:00
-156.146.41.17 # Masive Brute-Force TCP@37694(RDP protocol), snort reported, 2024-09-01 15:00
-45.140.189.0/24 # Masive Brute-Force TCP@37694(RDP protocol), detected by snort, 2024-09-22, 740K attempts in 2 days
-# END 150 entries
+# 45.140.189.31 Mass Brute-Force TCP@37694(RDP protocol), snort report 2024-09-26 18:30
+45.140.189.0/24
+156.146.41.17
+45.140.212.55
+89.248.165.153
+194.180.48.74
+# 194.180.49.110, 194.180.49.111, 194.180.49.244, 194.180.49.109, Bucuresti port connect 37695
+194.180.49.0/24
+198.50.167.103
+18.219.37.54
+199.45.155.64
+13.86.104.42
+216.239.34.223
+92.60.40.205
+162.216.150.249
+35.203.211.206
+159.223.147.52
+104.195.12.35
+172.202.113.251
+# END 168 entries, LastUpdate 2025-07-26
